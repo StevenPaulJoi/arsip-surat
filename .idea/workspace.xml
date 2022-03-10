@@ -1,0 +1,691 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="98e3e817-545c-4ebf-9c63-308cce7295ea" name="Default" comment="" />
+    <ignored path="ujikom_sopianNew.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="ujikom_sopianNew" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="33" column="126" selection-start="1529" selection-end="1529" vertical-scroll-proportion="-11.115385" vertical-offset="272" max-vertical-offset="2397">
+              <folding>
+                <marker date="1589020773876" expanded="true" signature="2998:3075" placeholder="select * fro..tb_petugas..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cetak_suratmasuk.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/admin/laporan/cetak_suratmasuk.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="73" column="7" selection-start="3210" selection-end="3210" vertical-scroll-proportion="0.8649123" vertical-offset="748" max-vertical-offset="1360">
+              <folding>
+                <element signature="n#style#0;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1519637055476" expanded="true" signature="171:297" placeholder="SELECT * FRO..tb_surat_masuk..." />
+                <marker date="1519637055476" expanded="true" signature="342:370" placeholder="SELECT * FRO..tb_surat_masuk..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="kelola_petugas.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/pengaturan/kelola_petugas.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="109" column="49" selection-start="4642" selection-end="4642" vertical-scroll-proportion="0.0" vertical-offset="1385" max-vertical-offset="3587">
+              <folding>
+                <marker date="1524812335953" expanded="true" signature="14:63" placeholder="SELECT max(i..tb_petugas..." />
+                <marker date="1524812335953" expanded="true" signature="790:905" placeholder="INSERT INTO ..." />
+                <marker date="1524812335953" expanded="true" signature="1677:1763" placeholder="update tb_pe..." />
+                <marker date="1524812335953" expanded="true" signature="8684:8733" placeholder="SELECT * FRO..tb_petugas..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="35" selection-start="595" selection-end="595" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="3043">
+              <folding>
+                <marker date="1589039404559" expanded="true" signature="149:211" placeholder="select * fro..tb_petugas..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/home.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="45" selection-start="45" selection-end="45" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2278">
+              <folding>
+                <marker date="1615064000515" expanded="true" signature="854:882" placeholder="select * fro..tb_surat_masuk..." />
+                <marker date="1615064000515" expanded="true" signature="2142:2171" placeholder="select * fro..tb_surat_keluar..." />
+                <marker date="1615064000515" expanded="true" signature="3438:3464" placeholder="select * fro..tb_disposisi..." />
+                <marker date="1615064000515" expanded="true" signature="4725:4749" placeholder="select * fro..tb_petugas..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="galeri_surat_keluar.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/surat_keluar/galeri_surat_keluar.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="53" column="61" selection-start="2476" selection-end="2476" vertical-scroll-proportion="0.0" vertical-offset="505" max-vertical-offset="1666">
+              <folding>
+                <marker date="1519180688160" expanded="true" signature="41:101" placeholder="SELECT max(n..tb_surat_keluar..." />
+                <marker date="1519180688160" expanded="true" signature="937:966" placeholder="select * fro..tb_surat_keluar..." />
+                <marker date="1519180688160" expanded="true" signature="1498:1577" placeholder="SELECT * FRO..tb_surat_keluar..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/koneksi.php" />
+        <option value="$PROJECT_DIR$/pemimpin/laporan/cetak_suratmasuk.php" />
+        <option value="$PROJECT_DIR$/pemimpin/laporan/cetak_suratkeluar.php" />
+        <option value="$PROJECT_DIR$/petugas/laporan/cetak_disposisi.php" />
+        <option value="$PROJECT_DIR$/admin/pengaturan/edit_petugas.php" />
+        <option value="$PROJECT_DIR$/pemimpin/laporan/cetak_disposisi.php" />
+        <option value="$PROJECT_DIR$/admin/disposisi/cetak_disposisi.php" />
+        <option value="$PROJECT_DIR$/admin/surat_masuk/hapus_suratmasuk.php" />
+        <option value="$PROJECT_DIR$/admin/input_surat/hapus_nomorsurat.php" />
+        <option value="$PROJECT_DIR$/admin/input_surat/hapus_jenissurat.php" />
+        <option value="$PROJECT_DIR$/petugas/surat_masuk/hapus_suratmasuk.php" />
+        <option value="$PROJECT_DIR$/petugas/surat_masuk/..php" />
+        <option value="$PROJECT_DIR$/petugas/surat_keluar/cetak_pdf.php" />
+        <option value="$PROJECT_DIR$/petugas/laporan/cetak_suratmasuk.php" />
+        <option value="$PROJECT_DIR$/petugas/laporan/cetak_suratkeluar.php" />
+        <option value="$PROJECT_DIR$/petugas/laporan/laporan_surat.php" />
+        <option value="$PROJECT_DIR$/pemimpin/laporan/laporan_surat.php" />
+        <option value="$PROJECT_DIR$/admin/laporan/loghapussurat.php" />
+        <option value="$PROJECT_DIR$/petugas/surat_masuk/cetak_pdf.php" />
+        <option value="$PROJECT_DIR$/pemimpin/surat_masuk/detail_suratmasuk.php" />
+        <option value="$PROJECT_DIR$/petugas/surat_masuk/input_masuk.php" />
+        <option value="$PROJECT_DIR$/admin/input_surat/jenis_surat.php" />
+        <option value="$PROJECT_DIR$/petugas/surat_masuk/edit_suratmasuk.php" />
+        <option value="$PROJECT_DIR$/petugas/surat_keluar/edit_suratkeluar.php" />
+        <option value="$PROJECT_DIR$/admin/surat_masuk/edit_suratmasuk.php" />
+        <option value="$PROJECT_DIR$/admin/surat_keluar/edit_suratkeluar.php" />
+        <option value="$PROJECT_DIR$/petugas/surat_keluar/input_keluar.php" />
+        <option value="$PROJECT_DIR$/petugas/surat_keluar/surat_keluar.php" />
+        <option value="$PROJECT_DIR$/admin/surat_keluar/surat_keluar.php" />
+        <option value="$PROJECT_DIR$/admin/input_surat/nomor_surat.php" />
+        <option value="$PROJECT_DIR$/petugas/disposisi/laporan_disposisi.php" />
+        <option value="$PROJECT_DIR$/pemimpin/laporan/laporan_disposisi.php" />
+        <option value="$PROJECT_DIR$/admin/laporan/laporan_surat.php" />
+        <option value="$PROJECT_DIR$/admin/disposisi/laporan_disposisi.php" />
+        <option value="$PROJECT_DIR$/admin/disposisi/disposisi.php" />
+        <option value="$PROJECT_DIR$/petugas/home.php" />
+        <option value="$PROJECT_DIR$/petugas/surat_masuk/test.php" />
+        <option value="$PROJECT_DIR$/lupa.php" />
+        <option value="$PROJECT_DIR$/logout.php" />
+        <option value="$PROJECT_DIR$/admin/pengaturan/kelola_petugas.php" />
+        <option value="$PROJECT_DIR$/petugas/surat_masuk/surat_masuk.php" />
+        <option value="$PROJECT_DIR$/admin/surat_masuk/galeri_surat_masuk.php" />
+        <option value="$PROJECT_DIR$/admin/laporan/cetak_suratkeluar.php" />
+        <option value="$PROJECT_DIR$/petugas/index.php" />
+        <option value="$PROJECT_DIR$/admin/surat_keluar/galeri_surat_keluar.php" />
+        <option value="$PROJECT_DIR$/admin/surat_masuk/surat_masuk.php" />
+        <option value="$PROJECT_DIR$/pemimpin/index.php" />
+        <option value="$PROJECT_DIR$/admin/index.php" />
+        <option value="$PROJECT_DIR$/admin/home.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/admin/laporan/cetak_suratmasuk.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ujikom_sopianNew" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ujikom_sopianNew" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ujikom_sopianNew" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ujikom_sopianNew" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ujikom_sopianNew" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ujikom_sopianNew" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ujikom_sopianNew" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="surat_masuk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ujikom_sopianNew" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ujikom_sopianNew" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pengaturan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ujikom_sopianNew" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ujikom_sopianNew" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="laporan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pustaka-bookingku" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="SearchEverywhereHistory" value="" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\ujikom_sopianNew\admin\surat_keluar" />
+      <recent name="C:\xampp\htdocs\ujikom_sopianNew\admin\surat_masuk" />
+      <recent name="C:\xampp\htdocs\ujikom_sopianNew\pemimpin\laporan" />
+      <recent name="C:\xampp\htdocs\ujikom_sopianNew\petugas\disposisi" />
+      <recent name="C:\xampp\htdocs\ujikom_sopianNew\petugas\laporan" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\ujikom_sopianNew\admin" />
+      <recent name="C:\xampp\htdocs\ujikom_sopianNew\petugas\surat_keluar" />
+      <recent name="C:\xampp\htdocs\ujikom_sopianNew\petugas\surat_masuk" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98e3e817-545c-4ebf-9c63-308cce7295ea" name="Default" comment="" />
+      <created>1518781882946</created>
+      <updated>1518781882946</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20717423" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32913387" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32913387" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23792094" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2363" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/input_surat/jenis_surat.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="70" selection-start="711" selection-end="741" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="1955" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/pengaturan/kelola_petugas.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3587" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/petugas/surat_masuk/surat_masuk.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="206" column="47" selection-start="12881" selection-end="12881" vertical-scroll-proportion="0.0" vertical-offset="2966" max-vertical-offset="4165" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/input_surat/jenis_surat.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="73" column="52" selection-start="3187" selection-end="3187" vertical-scroll-proportion="0.0" vertical-offset="1241" max-vertical-offset="1955" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/pengaturan/kelola_petugas.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3587" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/petugas/surat_masuk/surat_masuk.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="90" column="47" selection-start="4070" selection-end="4070" vertical-scroll-proportion="0.0" vertical-offset="1326" max-vertical-offset="4165" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/pengaturan/kelola_petugas.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3587" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/petugas/surat_masuk/surat_masuk.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="90" column="47" selection-start="4070" selection-end="4070" vertical-scroll-proportion="0.0" vertical-offset="1326" max-vertical-offset="4165" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/pengaturan/kelola_petugas.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3587" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ujikom/koneksi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="609" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pemimpin/surat_keluar/detail_suratkeluar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="38" selection-start="1190" selection-end="1190" vertical-scroll-proportion="0.0" vertical-offset="374" max-vertical-offset="1292" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pemimpin/disposisi/disposisi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-1.7650273" vertical-offset="969" max-vertical-offset="1615" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pemimpin/surat_masuk/surat_masuk.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="63" selection-start="900" selection-end="900" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="1598" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/input_surat/jenis_surat.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="70" selection-start="701" selection-end="741" vertical-scroll-proportion="0.0" vertical-offset="845" max-vertical-offset="1955" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/surat_masuk/detail_suratmasuk.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="1241" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pemimpin/surat_masuk/detail_suratmasuk.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="28" selection-start="1681" selection-end="1740" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="2329" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/surat_keluar/surat_keluar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="85" column="66" selection-start="3596" selection-end="3622" vertical-scroll-proportion="0.0" vertical-offset="1275" max-vertical-offset="3876" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/surat_keluar/hapus_suratkeluar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="588" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/petugas/surat_masuk/cetak_pdf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="2" selection-start="257" selection-end="257" vertical-scroll-proportion="-0.65384614" vertical-offset="255" max-vertical-offset="1258" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/petugas/laporan/laporan_surat.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="179" selection-start="3940" selection-end="3940" vertical-scroll-proportion="0.0" vertical-offset="527" max-vertical-offset="3400" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/petugas/laporan/cetak_suratkeluar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="249" selection-end="249" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="1258" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/petugas/surat_keluar/cetak_pdf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1190" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/input_surat/nomor_surat.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="94" column="57" selection-start="4754" selection-end="4754" vertical-scroll-proportion="0.0" vertical-offset="1377" max-vertical-offset="2363" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/pengaturan/proses_backup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1734" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/surat_masuk/edit_suratmasuk.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="99" column="111" selection-start="4392" selection-end="4406" vertical-scroll-proportion="0.0" vertical-offset="1683" max-vertical-offset="2533" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/surat_masuk/galeri_surat_masuk.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1666" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/laporan/cetak_suratkeluar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1258" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/laporan/laporan_surat.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="54" column="43" selection-start="4070" selection-end="4070" vertical-scroll-proportion="0.0" vertical-offset="437" max-vertical-offset="3400" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/disposisi/cetak_disposisi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1343" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pemimpin/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="128" column="6" selection-start="7034" selection-end="7034" vertical-scroll-proportion="0.81850535" vertical-offset="1716" max-vertical-offset="2278" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/petugas/surat_keluar/surat_keluar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="30" selection-start="1890" selection-end="1890" vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="3944" />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/phrase.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="331" column="23" selection-start="6295" selection-end="6295" vertical-scroll-proportion="1.1707717" vertical-offset="4914" max-vertical-offset="6902">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/petugas/surat_masuk/edit_suratmasuk.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="1963" max-vertical-offset="2533" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/petugas/surat_masuk/surat_masuk.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="199" column="53" selection-start="12405" selection-end="12405" vertical-scroll-proportion="0.0" vertical-offset="3085" max-vertical-offset="4165" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lupa.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="66" selection-start="1167" selection-end="1167" vertical-scroll-proportion="0.0" vertical-offset="16" max-vertical-offset="578" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/pengaturan/edit_petugas.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1462" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sendEmail-v156.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="28" selection-start="159" selection-end="159" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="374" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/send_email.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="43" selection-start="533" selection-end="533" vertical-scroll-proportion="0.27868852" vertical-offset="153" max-vertical-offset="850" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pemimpin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="65" column="96" selection-start="3609" selection-end="3609" vertical-scroll-proportion="0.287796" vertical-offset="947" max-vertical-offset="2771" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/surat_masuk/surat_masuk.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="134" column="52" selection-start="7730" selection-end="7730" vertical-scroll-proportion="0.0" vertical-offset="1742" max-vertical-offset="4148" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/petugas/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="72" column="24" selection-start="3872" selection-end="3872" vertical-scroll-proportion="0.0" vertical-offset="731" max-vertical-offset="2533" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/koneksi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="211" selection-end="211" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="374" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="102" selection-end="102" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="221" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/petugas/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="56" selection-start="1544" selection-end="1544" vertical-scroll-proportion="46.53846" vertical-offset="1669" max-vertical-offset="2278" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/surat_keluar/galeri_surat_keluar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="61" selection-start="2476" selection-end="2476" vertical-scroll-proportion="0.0" vertical-offset="505" max-vertical-offset="1666">
+          <folding>
+            <marker date="1519180688160" expanded="true" signature="41:101" placeholder="SELECT max(n..tb_surat_keluar..." />
+            <marker date="1519180688160" expanded="true" signature="937:966" placeholder="select * fro..tb_surat_keluar..." />
+            <marker date="1519180688160" expanded="true" signature="1498:1577" placeholder="SELECT * FRO..tb_surat_keluar..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="35" selection-start="595" selection-end="595" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="3043">
+          <folding>
+            <marker date="1589039404559" expanded="true" signature="149:211" placeholder="select * fro..tb_petugas..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="45" selection-start="45" selection-end="45" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2278">
+          <folding>
+            <marker date="1615064000515" expanded="true" signature="854:882" placeholder="select * fro..tb_surat_masuk..." />
+            <marker date="1615064000515" expanded="true" signature="2142:2171" placeholder="select * fro..tb_surat_keluar..." />
+            <marker date="1615064000515" expanded="true" signature="3438:3464" placeholder="select * fro..tb_disposisi..." />
+            <marker date="1615064000515" expanded="true" signature="4725:4749" placeholder="select * fro..tb_petugas..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/pengaturan/kelola_petugas.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="109" column="49" selection-start="4642" selection-end="4642" vertical-scroll-proportion="0.0" vertical-offset="1385" max-vertical-offset="3587">
+          <folding>
+            <marker date="1524812335953" expanded="true" signature="14:63" placeholder="SELECT max(i..tb_petugas..." />
+            <marker date="1524812335953" expanded="true" signature="790:905" placeholder="INSERT INTO ..." />
+            <marker date="1524812335953" expanded="true" signature="1677:1763" placeholder="update tb_pe..." />
+            <marker date="1524812335953" expanded="true" signature="8684:8733" placeholder="SELECT * FRO..tb_petugas..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="126" selection-start="1529" selection-end="1529" vertical-scroll-proportion="-11.115385" vertical-offset="272" max-vertical-offset="2397">
+          <folding>
+            <marker date="1589020773876" expanded="true" signature="2998:3075" placeholder="select * fro..tb_petugas..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/laporan/cetak_suratmasuk.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="73" column="7" selection-start="3210" selection-end="3210" vertical-scroll-proportion="0.8649123" vertical-offset="748" max-vertical-offset="1360">
+          <folding>
+            <element signature="n#style#0;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1519637055476" expanded="true" signature="171:297" placeholder="SELECT * FRO..tb_surat_masuk..." />
+            <marker date="1519637055476" expanded="true" signature="342:370" placeholder="SELECT * FRO..tb_surat_masuk..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
